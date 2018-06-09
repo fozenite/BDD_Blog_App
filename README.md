@@ -1,1 +1,1 @@
-BDD Practice
+This is the repo of the BDD Rails 5 Blog App
